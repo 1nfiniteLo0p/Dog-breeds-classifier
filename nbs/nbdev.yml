@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "Dog-breeds-classifier"
+  site-url: "https://1nfiniteLo0p.github.io/Dog-breeds-classifier"
+  description: "Dog breeds classifier using fastai deep learning library"
+  repo-branch: main
+  repo-url: "https://github.com/1nfiniteLo0p/Dog-breeds-classifier"
